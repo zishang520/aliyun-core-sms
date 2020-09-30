@@ -1,0 +1,22 @@
+{
+    "name": "luoyy/aliyun-core-sms",
+    "description": "aliyun-php-sdk-core-sms",
+    "require": {
+        "php": ">=7.1.0",
+        "luoyy/aliyun-core": "^2.0"
+    },
+    "authors": [{
+        "name": "luoyy",
+        "email": "zishang520@gmail.com"
+    }],
+    "keywords": ["aliyun", "core-sms", "laravel", "lumen"],
+    "support": {
+        "issues": "https://github.com/zishang520/aliyun-core-sms/issues",
+        "source": "https://github.com/zishang520/aliyun-core-sms"
+    },
+    "autoload": {
+        "psr-4": {
+            "luoyy\\AliCore\\Sms\\": "src/"
+        }
+    }
+}
