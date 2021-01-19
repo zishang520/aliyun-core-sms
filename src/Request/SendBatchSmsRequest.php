@@ -38,7 +38,7 @@ class SendBatchSmsRequest extends RpcAcsRequest
             'Dysmsapi',
             '2017-05-25',
             'SendBatchSms',
-            'dysmsapi',
+            'dysms',
             'openAPI'
         );
     }

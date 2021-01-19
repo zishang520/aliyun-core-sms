@@ -19,7 +19,7 @@ class QuerySendDetailsRequest extends RpcAcsRequest
             'Dysmsapi',
             '2017-05-25',
             'QuerySendDetails',
-            'dysmsapi',
+            'dysms',
             'openAPI'
         );
     }

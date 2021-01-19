@@ -19,7 +19,7 @@ class SendSmsRequest extends RpcAcsRequest
             'Dysmsapi',
             '2017-05-25',
             'SendSms',
-            'dysmsapi',
+            'dysms',
             'openAPI'
         );
     }
